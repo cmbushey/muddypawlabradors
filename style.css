@@ -1,0 +1,12 @@
+/* Define custom CSS classes for earth tones */
+.earth-bg {
+    background-color: #8B4513; /* Brown */
+    color: #FFF; /* White */
+}
+
+/* Override Bootstrap's default link colors */
+.earth-bg .nav-link {
+    color: #FFD700; /* Gold */
+}
+
+
